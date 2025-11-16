@@ -3,5 +3,5 @@ Telegram Email Summarizer
 Members:
 Abella, Gladz
 Espinar, Jade
-Malinao, Brian
+Malinao, Bryan
 Sebilo, Eugene Paul Brian
